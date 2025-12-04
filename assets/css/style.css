@@ -1,0 +1,63 @@
+@import "./vars.css";
+
+*
+{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body
+{
+    background: var(--dark-bg);
+}
+
+.content
+{
+    margin: 0 60px;
+}
+
+#home
+{
+    display: flex;
+
+    & .left
+    {
+        width: 50vw;
+        height: 92vh;
+    }
+
+    & .right
+    {
+        width: 50vw;
+        height: 92vh;
+
+        & img
+        {
+            width: 450px;
+            rotate: 10deg;
+
+            filter: drop-shadow(0 0 5px #525252)
+            drop-shadow(0 0 5px #525252)
+            drop-shadow(0 0 10px #525252);
+
+            animation: floating 5s ease-in infinite alternate;
+        }
+    }
+}
+
+@keyframes floating 
+{
+    0%
+    {
+        transform: translateY(0);
+    }
+    50%
+    {
+        transform: translateY(-12px);
+    }
+    100%
+    {
+        transform: translateY(8px);
+    }
+}

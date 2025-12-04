@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Archivo+Black&family=Inconsolata:wght@200..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root
+{
+    --dark-bg: linear-gradient(135deg, #000, #171717);
+    --light-bg: linear-gradient(135deg, #cbcbcb, #fff);
+
+    --grad-tr-dark: linear-gradient(to right, #373737, #737373);
+    --grad-tl-dark: linear-gradient(to left, #737373, #373737);
+
+    --m-font: "Montserrat", sans-serif;
+    --a-font: "Anton", sans-serif;
+    --i-font: "Inconsolata", sans-serif;
+    --ab-font: "Archivo Black", sans-serif;
+
+}
+
+.u-flex 
+{
+    display: flex !important;
+}
+.u-items-center
+{
+    align-items: center !important;
+}
+.u-just-center
+{
+    justify-content: center !important;
+}
