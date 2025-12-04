@@ -18,11 +18,11 @@ a:hover{
     font-family: var(--ab-font);
     font-size: 24px;
     text-transform: uppercase;
-    letter-spacing: 4px;
+    letter-spacing: var(--oz-size-0);
 }
 .logo--header::after
 {
-    content: "</>";
+    content: "</MC>";
 }
 
 header
@@ -48,7 +48,7 @@ header
     & li
     {
         letter-spacing: 3px;
-        margin-left: 32px;
+        margin-left: var(--oz-size-8);
     }
 }
 

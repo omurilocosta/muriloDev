@@ -25,6 +25,38 @@ body
     {
         width: 50vw;
         height: 92vh;
+
+        & .home-info
+        {
+            & #home-info--name
+            {
+                text-transform: uppercase;
+                color: var(--light-font);
+                font-family: var(--a-font);
+                font-size: var(--oz-size-14);
+            }
+
+            & #home-info--dev
+            {
+                background: var(--grad-tr-dark);
+                -webkit-background-clip: text;
+                background-clip: text;
+                color: transparent;
+                font-family: var(--m-font);
+                font-size: var(--oz-size-4);
+            }
+
+            & .home-info--links
+            {
+                
+                & .home-info--link span
+                {
+                    background: aqua;
+                    width: 50px;
+                    height: 50px;
+                }
+            }
+        }
     }
 
     & .right
@@ -41,7 +73,7 @@ body
             drop-shadow(0 0 5px #525252)
             drop-shadow(0 0 10px #525252);
 
-            animation: floating 5s ease-in infinite alternate;
+            animation: floating 10s ease-in infinite alternate;
         }
     }
 }

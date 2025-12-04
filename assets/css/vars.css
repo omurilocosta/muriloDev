@@ -13,6 +13,23 @@
     --i-font: "Inconsolata", sans-serif;
     --ab-font: "Archivo Black", sans-serif;
 
+    --light-font: #fcfcfc;
+
+    --oz-size-0: 0;
+    --oz-size-1: 4px;
+    --oz-size-2: calc(var(--oz-size-1)*2);
+    --oz-size-3: calc(var(--oz-size-1)*3);
+    --oz-size-4: calc(var(--oz-size-1)*4);
+    --oz-size-5: calc(var(--oz-size-1)*5);
+    --oz-size-6: calc(var(--oz-size-1)*6);
+    --oz-size-7: calc(var(--oz-size-1)*7);
+    --oz-size-8: calc(var(--oz-size-1)*8);
+    --oz-size-9: calc(var(--oz-size-1)*9);
+    --oz-size-10: calc(var(--oz-size-1)*10);
+    --oz-size-11: calc(var(--oz-size-1)*11);
+    --oz-size-12: calc(var(--oz-size-1)*12);
+    --oz-size-13: calc(var(--oz-size-1)*13);
+    --oz-size-14: calc(var(--oz-size-1)*14);
 }
 
 .u-flex 
@@ -26,4 +43,8 @@
 .u-just-center
 {
     justify-content: center !important;
+}
+.u-flex-col
+{
+    flex-direction: column !important;
 }
