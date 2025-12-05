@@ -35,7 +35,7 @@ Este projeto está licenciado sob a MIT License. <br>
 Copyright © 2025 Murilo Costa
 
 ### 📬 Contato
-📧 murilocosta2707@gmail.com
-🌐 www.linkedin.com/in/omurilocosta
+📧 murilocosta2707@gmail.com <br>
+🌐 www.linkedin.com/in/omurilocosta <br>
 📸 @murilo.cost4
 ___
