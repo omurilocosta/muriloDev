@@ -14,10 +14,23 @@ Aqui apresento meus principais projetos, minhas habilidades e um pouco sobre min
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
 </div>
 
-## 📌 O que você encontrará aqui?
-- Projetos desenvolvidos com diversas tecnologias.
-- Código-fonte de aplicações web e outras soluções criativas.
-- Atualizações e melhorias constantes.
+### ✨ Funcionalidades
+- Seção Sobre mim
+- Seção Projetos
+- Seção Contato
+- Layout responsivo
+- Animações suaves
+-  Modo claro/escuro
 
-Sinta-se à vontade para explorar, contribuir e entrar em contato! 😃
+### 🧠 Aprendizados
+Neste projeto, pratiquei:
+- Estruturação semântica de HTML
+- Estilização com Flexbox e Grid
+- Responsividade com media queries
+- Animações com CSS e JavaScript
+- Organização de pastas e boas práticas de frontend
+
+### 📝 Licença
+Este projeto está licenciado sob a MIT License. <br>
+Copyright © 2025 Murilo Costa
 ___
