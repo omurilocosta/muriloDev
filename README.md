@@ -3,7 +3,7 @@ Bem-vindo ao meu portfólio!
 Aqui apresento meus principais projetos, minhas habilidades e um pouco sobre minha jornada como desenvolvedor frontend.
 
 ### 🖼️ Demonstração
-<p align="center"> <img src="assets/img/demo.png" width="500" alt="Demonstração do Portfolio" /> </p>
+<p align="center"> <img src="assets/img/demo.png" width="1200" alt="Demonstração do Portfolio" /> </p>
 
 🔗 Acesse o projeto aqui: muridev.com
 
