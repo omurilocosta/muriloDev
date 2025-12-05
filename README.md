@@ -8,7 +8,7 @@ Aqui apresento meus principais projetos, minhas habilidades e um pouco sobre min
 🔗 Acesse o projeto aqui: muridev.com
 
 ### 📚 Tecnologias utilizadas
-<div style="display: flex; gap: 30px;"> 
+<div style="display: flex; gap: 10px;"> 
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
   <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
@@ -33,4 +33,9 @@ Neste projeto, pratiquei:
 ### 📝 Licença
 Este projeto está licenciado sob a MIT License. <br>
 Copyright © 2025 Murilo Costa
+
+### 📬 Contato
+📧 murilocosta2707@gmail.com
+🌐 www.linkedin.com/in/omurilocosta
+📸 @murilo.cost4
 ___
