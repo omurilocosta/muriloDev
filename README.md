@@ -37,5 +37,5 @@ Copyright © 2025 Murilo Costa
 ### 📬 Contato
 📧 murilocosta2707@gmail.com <br>
 🌐 www.linkedin.com/in/omurilocosta <br>
-📸 instagram.com/murilo.cost4
+📸 www.instagram.com/murilo.cost4
 ___
