@@ -3,9 +3,9 @@ Bem-vindo ao meu portfólio!
 Aqui apresento meus principais projetos, minhas habilidades e um pouco sobre minha jornada como desenvolvedor frontend.
 
 ### 🖼️ Demonstração
-<p align="center"> <img src="assets/img/demo.png" width="1200" alt="Demonstração do Portfolio" /> </p>
+<p align="center"> <img src="assets/img/demo.gif" width="1200" alt="Demonstração do Portfolio" /> </p>
 
-🔗 Acesse o projeto aqui: muridev.com
+🔗 Acesse o projeto aqui: [muridev.com](https://omurilocosta.github.io/muriloDev/)
 
 ### 📚 Tecnologias utilizadas
 <div style="display: flex; gap: 10px;"> 
