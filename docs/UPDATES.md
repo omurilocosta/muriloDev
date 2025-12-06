@@ -7,4 +7,5 @@
 - Concluído Section Home
 - Adicionado botões com links para Instagram, LinkedIn e Github
 - Adicionado botão para download de currículo (não funcional)
+- Adicionado Icons utilizando biblioteca Web HugeIcons
 - Ajustado algumas estilizações

@@ -1,10 +1,41 @@
-# Meu Portfólio 💼✨
-Bem-vindo ao repositório do meu portfólio! 🚀 Aqui você encontrará uma coleção dos meus projetos, habilidades e experiências na área de desenvolvimento.
+# 🚀 Portfolio Pessoal
+Bem-vindo ao meu portfólio!
+Aqui apresento meus principais projetos, minhas habilidades e um pouco sobre minha jornada como desenvolvedor frontend.
 
-## 📌 O que você encontrará aqui?
-- Projetos desenvolvidos com diversas tecnologias.
-- Código-fonte de aplicações web e outras soluções criativas.
-- Atualizações e melhorias constantes.
+### 🖼️ Demonstração
+<p align="center"> <img src="assets/img/demo.png" width="1200" alt="Demonstração do Portfolio" /> </p>
 
-Sinta-se à vontade para explorar, contribuir e entrar em contato! 😃
+🔗 Acesse o projeto aqui: muridev.com
+
+### 📚 Tecnologias utilizadas
+<div style="display: flex; gap: 10px;"> 
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
+</div>
+
+### ✨ Funcionalidades
+- Seção Sobre mim
+- Seção Projetos
+- Seção Contato
+- Layout responsivo
+- Animações suaves
+-  Modo claro/escuro
+
+### 🧠 Aprendizados
+Neste projeto, pratiquei:
+- Estruturação semântica de HTML
+- Estilização com Flexbox e Grid
+- Responsividade com media queries
+- Animações com CSS e JavaScript
+- Organização de pastas e boas práticas de frontend
+
+### 📝 Licença
+Este projeto está licenciado sob a MIT License. <br>
+Copyright © 2025 Murilo Costa
+
+### 📬 Contato
+📧 murilocosta2707@gmail.com <br>
+🌐 www.linkedin.com/in/omurilocosta <br>
+📸 www.instagram.com/murilo.cost4
 ___

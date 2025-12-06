@@ -48,9 +48,9 @@ body
 
             & .home-links
             {
-                width: 230px;
+                width: 150px;
                 height: 60px;
-                margin-top: var(--oz-size-2);
+                margin: var(--oz-size-7) var(--oz-size-0);
                 
 
                 & .links
@@ -70,7 +70,7 @@ body
             & .home-button-download
             {
                 background: var(--grad-tr-dark);
-                margin-top: var(--oz-size-5);
+                margin-top: var(--oz-size-2);
                 padding: 8px 10px;
                 border-radius: var(--oz-size-1);
                 width: 150px;
