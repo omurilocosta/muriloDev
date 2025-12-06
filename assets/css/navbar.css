@@ -1,6 +1,6 @@
 @import "./vars.css";
 
-a
+.nav-list a, .logo--header
 {
     background: var(--grad-tr-dark);
     -webkit-background-clip: text;
@@ -11,6 +11,7 @@ a
 
 a:hover{
     opacity: .7;
+    transition: .2s ease-in;
 }
 
 .logo--header

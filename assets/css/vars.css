@@ -6,7 +6,9 @@
     --light-bg: linear-gradient(135deg, #cbcbcb, #fff);
 
     --grad-tr-dark: linear-gradient(to right, #373737, #737373);
-    --grad-tl-dark: linear-gradient(to left, #737373, #373737);
+    --grad-tl-dark: linear-gradient(to right, #737373, #373737);
+
+    --neon-f-dark:drop-shadow(0 0 15px #525252) drop-shadow(0 0 5px #525252)drop-shadow(0 0 10px #525252);
 
     --m-font: "Montserrat", sans-serif;
     --a-font: "Anton", sans-serif;
@@ -43,6 +45,14 @@
 .u-just-center
 {
     justify-content: center !important;
+}
+.u-just-around
+{
+    justify-content: space-around !important;
+}
+.u-just-between
+{
+    justify-content: space-between !important;
 }
 .u-flex-col
 {

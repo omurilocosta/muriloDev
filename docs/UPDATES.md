@@ -2,3 +2,9 @@
 - Iniciado Section Home
 - Modificado style.css
 - Modificado navbar.css
+
+### UPDATE 051220252140
+- Concluído Section Home
+- Adicionado botões com links para Instagram, LinkedIn e Github
+- Adicionado botão para download de currículo (não funcional)
+- Ajustado algumas estilizações
